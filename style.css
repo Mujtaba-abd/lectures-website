@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.hero {
+  padding: 12px;
+  padding-bottom: 25px;
+  font-size: 15px;
+  text-align: center;
+  background-color: #283955;
+  color: aliceblue;
+}
+.lectures-container {
+  /* margin-top: 40px; */
+  display: flex;
+  flex-direction: column;
+}
+.Logic-container {
+  background-color: #a3a3a3;
+  padding: 45px;
+}
+.Logic {
+  text-align: center;
+  margin-bottom: 16px;
+}
+.computer-container {
+  background-color: #94a3b8;
+  padding: 45px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
